@@ -14,7 +14,7 @@ Remove backgrounds from images using this simple web application built with Pyth
 
 ### Home Page
 
-![Home Page](Screenshots/home.png)
+![Home Page](Screenshots/Home.png)
 
 ### Image Processing
 
