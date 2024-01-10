@@ -14,15 +14,15 @@ Remove backgrounds from images using this simple web application built with Pyth
 
 ### Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](Screenshots/home.png)
 
 ### Image Processing
 
-![Image Processing](screenshots/processing.png)
+![Image Processing](Screenshots/processing.png)
 
 ### Result
 
-![Result](screenshots/result.png)
+![Result](Screenshots/result.png)
 
 ## Getting Started
 
@@ -38,7 +38,7 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/background-remover.git
+    git clone https://github.com/OnpointSoftwares/Image-Background-Remover.git
     cd background-remover
     ```
 
@@ -75,4 +75,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any inquiries, please contact [your.email@example.com].
+For any inquiries, please contact [vincentbettoh@gmail.com].
